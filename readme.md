@@ -3,6 +3,19 @@
 ![teaser](https://github.com/user-attachments/assets/897b8778-8a39-4cba-aa3d-386c1add6b81)
 
 
+**How to Cite ⚙️**
+
+Embodied Data Transformation has been published at IEEE TVCG 2023, https://ieeexplore.ieee.org/abstract/document/10197223
+
+Please cite as: BibTex @inproceedings{in2024evaluating,
+  title={Evaluating navigation and comparison performance of computational notebooks on desktop and in virtual reality},
+  author={In, Sungwon and Krokos, Eric and Whitley, Kirsten and North, Chris and Yang, Yalong},
+  booktitle={Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems},
+  pages={1--15},
+  year={2024}
+}
+
+
 **At-a-Glance 👀**
 
 We aimed to experiment with adapting computational notebooks into VR and verify the potential benefits VR can bring. We focus on the navigation and comparison aspects as they are primitive components in analysts' workflows. To further improve comparison, we have designed and implemented a Branching & Merging functionality. We tested computational notebooks on the desktop and in VR, both with and without the added Branching & Merging capability. We found VR significantly facilitated navigation compared to desktop, and the ability to create branches enhanced comparison.
