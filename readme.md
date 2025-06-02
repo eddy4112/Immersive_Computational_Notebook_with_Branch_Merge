@@ -5,7 +5,7 @@
 
 **How to Cite ⚙️**
 
-Embodied Data Transformation has been published at IEEE TVCG 2023, https://ieeexplore.ieee.org/abstract/document/10197223
+Embodied Data Transformation has been published at ACM CHI 2024, https://dl.acm.org/doi/full/10.1145/3613904.3642932
 
 Please cite as: BibTex @inproceedings{in2024evaluating,
   title={Evaluating navigation and comparison performance of computational notebooks on desktop and in virtual reality},
