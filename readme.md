@@ -2,6 +2,8 @@
 
 ![teaser](https://github.com/user-attachments/assets/897b8778-8a39-4cba-aa3d-386c1add6b81)
 
+**Please have a look at the Release section to download!**
+
 
 **How to Cite ⚙️**
 
